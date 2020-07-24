@@ -1,1 +1,1 @@
-# http://verificadorDeIdade.github.io
+# verificadorDeIdade.github.io
